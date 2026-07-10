@@ -8,3 +8,32 @@ body{
     width: 100vw;
     height: 100vh;
 }
+#mainbox{
+    width: 700px;
+    height: 400px;
+    background-color: rgb(222, 245, 208);
+
+}
+.heading{
+    width: 700px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.heading p{
+    font-size: 50px;
+}
+.images{
+    width: 700px;
+    height: 300px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.images img{
+    width: 200px;
+    height: 200px;
+}
